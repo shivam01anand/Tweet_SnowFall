@@ -1,0 +1,5 @@
+#pipreqs . --force to generate
+
+kafka==1.3.5
+kafka_python==2.0.2
+tweepy==4.5.0
